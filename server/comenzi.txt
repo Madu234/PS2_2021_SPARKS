@@ -1,0 +1,5 @@
+export FLASK_APP=server_proiect.py
+
+flask run
+
+py -m http.server
