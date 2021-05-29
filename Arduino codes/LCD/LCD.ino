@@ -8,9 +8,9 @@ void setup()
   lcd.backlight();
 
   lcd.setCursor(0, 0);         // move cursor to   (0, 0)
-  lcd.print("Arduino");        // print message at (0, 0)
+  lcd.print("Cioplea Emil");        // print message at (0, 0)
   lcd.setCursor(2, 1);         // move cursor to   (2, 1)
-  lcd.print("GetStarted.com"); // print message at (2, 1)
+  //lcd.print("GetStarted.com"); // print message at (2, 1)
 }
 
 void loop()

@@ -1,0 +1,36 @@
+.divdr{
+    border-radius: 25px;
+    float:right;
+    width: 900px;
+    height: 680px;
+    margin-top: 25px;
+    /*background-image: url("b.jpg");
+    background-size: cover;*/
+    background-color: gray;
+    /* #00bfff;*/
+    overflow: auto;
+}
+.table{
+    /*position: absolute;
+    right: 0px;
+    width: 950px;
+    height: 900px;*/
+    font-family: Futura;
+    font-weight: bold;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #2e5cb8;
+    /*float: center;
+    margin-top: 20px;*/
+    
+}
+.tot{
+    background-image: url("bb.jpg");
+    background-size: cover;
+    background-color:#2e5cb8 ;
+    position: absolute;
+    right: 0px;
+    width: 1500px;
+    height: 1100px;
+}
